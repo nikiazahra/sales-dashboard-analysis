@@ -1,5 +1,3 @@
-# sales-dashboard-analysis
-
 # Sales Dashboard Analysis
 
 ## Objective
