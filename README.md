@@ -4,7 +4,7 @@
 Analyze sales data to identify revenue trends, top products, and regional performance.
 
 ## Tools Used
-- Excel / Power BI
+- Power BI
 - Data Cleaning
 - Basic Business Analysis
 
